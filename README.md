@@ -10,16 +10,6 @@ This repository contains all the essential topics, examples, and resources you n
 
 This repository contains comprehensive Java learning materials organized in a progressive manner. Each topic builds upon previous concepts, ensuring a solid understanding of Java programming fundamentals and advanced concepts.
 
-## 📁 Repository Structure
-Learning_java/
-├── Foundation/
-│   └── [Java fundamentals and core concepts]
-├── OOP/
-│   └── [Object-Oriented Programming concepts]
-├── Advanced/
-│   └── [Advanced Java topics]
-└── README.md
-
 ## 🚀 Getting Started
 
 1. **Clone the repository**
